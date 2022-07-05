@@ -240,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T10:28:29.820Z,33.4921667,-116.5741667,7.04,0.17,ml,18,119,0.02356,0.15,ci,ci40296248,2022-07-04T10:32:12.597Z,"12km SE of Anza, CA",earthquake,0.32,0.53,0.056,6,automatic,ci,ci
 2022-07-04T10:09:04.816Z,10.3008,94.2772,10,4.5,mb,24,261,2.019,0.38,us,us6000hzqc,2022-07-04T10:35:02.040Z,"225 km SE of Port Blair, India",earthquake,11.9,2,0.113,23,reviewed,us,us
 2022-07-04T09:58:41.198Z,61.1501,-148.4334,0,1.2,ml,,,,0.81,ak,ak0228i44msv,2022-07-04T20:12:46.516Z,"43 km SE of Knik River, Alaska",earthquake,,0,,,reviewed,ak,ak
-2022-07-04T09:55:20.374Z,10.4125,94.2547,10,5,mww,55,94,1.93,1.14,us,us6000hzq5,2022-07-04T15:32:00.040Z,"215 km SE of Port Blair, India",earthquake,7.5,1.8,0.086,13,reviewed,us,us
